@@ -30,7 +30,7 @@
 
 
 ## :dart: About ##
-The aim of the project is to create a device that allow to scan any sufrace to 3d model. 
+The aim of the project is to create a device that allows scanning any surface to 3d model.
 
 The process is based on spot distance measurement. To measure the distance the lidar is used. It ensures sufficient accuracy and the range of measurements. 
 
